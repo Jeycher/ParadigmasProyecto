@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "Agente Inteligente de Productividad";
+}
+
+<h2 style="text-align:center; margin-bottom:20px;">@ViewBag.Title</h2>
+
+<div style="max-width:600px; margin:auto; padding:10px;">
+    <div id="chat-box"
+         style="border:1px solid #ccc; padding:10px; height:400px; overflow-y:auto; border-radius:10px; background-color:#f9f9f9;">
+    </div>
+
+    <div style="margin-top:10px; display:flex;">
+        <input type="text" id="prompt" placeholder="Escribe tu mensaje..."
+               style="flex:1; padding:10px; border-radius:5px; border:1px solid #ccc;" />
+        <button id="enviar" class="btn btn-primary" style="margin-left:10px;">Enviar</button>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        function agregarMensaje(usuario, mensaje, color) {
+            var msgDiv = $("<div>").css("margin", "5px 0").css("color", color);
+            msgDiv.html("<strong>" + usuario + ":</strong> " + mensaje);
+            $("#chat-box").append(msgDiv);
+            $("#chat-box").scrollTop($("#chat-box")[0].scrollHeight);
+        }
+
+        $("#enviar").click(function () {
+            var prompt = $("#prompt").val();
+            if (!prompt) return;
+
+            agregarMensaje("Tú", prompt, "black");
+            $("#prompt").val("");
+
+            $.post("@Url.Action("Enviar", "Chat")", { prompt: prompt }, function (data) {
+                agregarMensaje("Agente", data.respuesta, "blue");
+            });
+        });
+
+        // NOs permite enviar e; mensaje 
+        $("#prompt").keypress(function (e) {
+            if (e.which == 13) {
+                $("#enviar").click();
+                return false;
+            }
+        });
+    </script>
+}
