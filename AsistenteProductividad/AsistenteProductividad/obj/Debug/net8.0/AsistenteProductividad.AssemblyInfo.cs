@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsistenteProductividad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4631b042da0e4c83bed80e0b83aeaaca769df7a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsistenteProductividad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsistenteProductividad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
