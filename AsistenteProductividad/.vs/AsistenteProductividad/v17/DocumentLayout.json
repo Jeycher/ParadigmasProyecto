@@ -5,30 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|c:\\users\\jeyes\\onedrive\\desktop\\paradigmasproyecto\\asistenteproductividad\\asistenteproductividad\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|solutionrelative:asistenteproductividad\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|c:\\users\\jeyes\\onedrive\\desktop\\paradigmasproyecto\\asistenteproductividad\\asistenteproductividad\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|solutionrelative:asistenteproductividad\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|c:\\users\\jeyes\\onedrive\\desktop\\paradigmasproyecto\\asistenteproductividad\\asistenteproductividad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|solutionrelative:asistenteproductividad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|c:\\users\\jeyes\\onedrive\\desktop\\paradigmasproyecto\\asistenteproductividad\\asistenteproductividad\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|solutionrelative:asistenteproductividad\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|c:\\users\\jeyes\\onedrive\\desktop\\paradigmasproyecto\\asistenteproductividad\\asistenteproductividad\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|solutionrelative:asistenteproductividad\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|c:\\users\\jeyes\\onedrive\\desktop\\paradigmasproyecto\\asistenteproductividad\\asistenteproductividad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|solutionrelative:asistenteproductividad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|c:\\users\\jeyes\\onedrive\\desktop\\paradigmasproyecto\\asistenteproductividad\\asistenteproductividad\\service\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|solutionrelative:asistenteproductividad\\service\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,87 +48,9 @@
               "RelativeDocumentMoniker": "AsistenteProductividad\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\appsettings.Development.json",
               "RelativeToolTip": "AsistenteProductividad\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-15T20:34:03.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\appsettings.json",
-              "RelativeDocumentMoniker": "AsistenteProductividad\\appsettings.json",
-              "ToolTip": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\appsettings.json",
-              "RelativeToolTip": "AsistenteProductividad\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-15T20:34:01.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "AsistenteProductividad\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\Properties\\launchSettings.json",
-              "RelativeToolTip": "AsistenteProductividad\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-15T20:32:52.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChatController.cs",
-              "DocumentMoniker": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\Controllers\\ChatController.cs",
-              "RelativeDocumentMoniker": "AsistenteProductividad\\Controllers\\ChatController.cs",
-              "ToolTip": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\Controllers\\ChatController.cs",
-              "RelativeToolTip": "AsistenteProductividad\\Controllers\\ChatController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T20:32:46.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "AsistenteProductividad\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "AsistenteProductividad\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T20:32:31.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\Program.cs",
-              "RelativeDocumentMoniker": "AsistenteProductividad\\Program.cs",
-              "ToolTip": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\Program.cs",
-              "RelativeToolTip": "AsistenteProductividad\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAkwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T20:32:13.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OpenAIService.cs",
-              "DocumentMoniker": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\Service\\OpenAIService.cs",
-              "RelativeDocumentMoniker": "AsistenteProductividad\\Service\\OpenAIService.cs",
-              "ToolTip": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\Service\\OpenAIService.cs",
-              "RelativeToolTip": "AsistenteProductividad\\Service\\OpenAIService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T17:40:35.153Z",
               "EditorCaption": ""
             }
           ]
