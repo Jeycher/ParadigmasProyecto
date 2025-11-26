@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\aleja\\Documents\\GitHub\\ParadigmasProyecto\\AsistenteProductividad\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|c:\\users\\aleja\\documents\\github\\paradigmasproyecto\\asistenteproductividad\\asistenteproductividad\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|solutionrelative:asistenteproductividad\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|c:\\users\\aleja\\documents\\github\\paradigmasproyecto\\asistenteproductividad\\asistenteproductividad\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|solutionrelative:asistenteproductividad\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|c:\\users\\aleja\\documents\\github\\paradigmasproyecto\\asistenteproductividad\\asistenteproductividad\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|solutionrelative:asistenteproductividad\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|c:\\users\\aleja\\documents\\github\\paradigmasproyecto\\asistenteproductividad\\asistenteproductividad\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{16780740-C44E-45E7-A6B3-8B2139BC16C6}|AsistenteProductividad\\AsistenteProductividad.csproj|solutionrelative:asistenteproductividad\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ChatController.cs",
               "DocumentMoniker": "C:\\Users\\aleja\\Documents\\GitHub\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\Controllers\\ChatController.cs",
               "RelativeDocumentMoniker": "AsistenteProductividad\\Controllers\\ChatController.cs",
@@ -70,12 +70,11 @@
               "RelativeToolTip": "AsistenteProductividad\\Controllers\\ChatController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAUwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T17:31:58.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T17:31:58.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\aleja\\Documents\\GitHub\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "AsistenteProductividad\\wwwroot\\css\\site.css",
@@ -83,12 +82,11 @@
               "RelativeToolTip": "AsistenteProductividad\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-26T17:06:34.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T17:06:34.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\aleja\\Documents\\GitHub\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AsistenteProductividad\\Views\\Shared\\_Layout.cshtml",
@@ -96,31 +94,30 @@
               "RelativeToolTip": "AsistenteProductividad\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T16:34:36.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T16:34:36.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\aleja\\Documents\\GitHub\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\Views\\Chat\\Index.cshtml",
               "RelativeDocumentMoniker": "AsistenteProductividad\\Views\\Chat\\Index.cshtml",
               "ToolTip": "C:\\Users\\aleja\\Documents\\GitHub\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\Views\\Chat\\Index.cshtml",
               "RelativeToolTip": "AsistenteProductividad\\Views\\Chat\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-26T16:34:34.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\aleja\\Documents\\GitHub\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\appsettings.Development.json",
               "RelativeDocumentMoniker": "AsistenteProductividad\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\aleja\\Documents\\GitHub\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\appsettings.Development.json",
               "RelativeToolTip": "AsistenteProductividad\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAC7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-25T02:04:13.848Z",
               "EditorCaption": ""
