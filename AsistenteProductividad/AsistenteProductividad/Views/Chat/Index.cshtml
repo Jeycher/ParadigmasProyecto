@@ -1,30 +1,74 @@
 ﻿@{
-    ViewBag.Title = "Agente Inteligente de Productividad";
+    ViewBag.Title = "Agente IA para mejorar tu Productividad";
 }
 
-<h2 style="text-align:center; margin-bottom:20px;">@ViewBag.Title</h2>
+<h2 class="text-center mb-4">@ViewBag.Title</h2>
 
-<div style="max-width:600px; margin:auto; padding:10px;">
-    <div id="chat-box"
-         style="border:1px solid #ccc; padding:10px; height:400px; overflow-y:auto; border-radius:10px; background-color:#f9f9f9;">
-    </div>
+<div class="container">
+    <div class="row justify-content-center">
 
-    <div style="margin-top:10px; display:flex;">
-        <input type="text" id="prompt" placeholder="Escribe tu mensaje..."
-               style="flex:1; padding:10px; border-radius:5px; border:1px solid #ccc;" />
-        <button id="enviar" class="btn btn-primary" style="margin-left:10px;">Enviar</button>
+        <!-- Columna del chat (más a la derecha) -->
+        <div class="col-md-7">
+
+            <div class="card shadow-sm">
+                <div class="card-body">
+
+                    <div id="chat-box"
+                         style="height:400px; overflow-y:auto; border-radius:10px; background-color:#f8f9fa; padding:15px; border:1px solid #e0e0e0;">
+                    </div>
+
+                    <div class="d-flex mt-3">
+                        <input type="text" id="prompt" placeholder="Escribe tu mensaje..."
+                               class="form-control" />
+                        <button id="enviar" class="btn btn-primary ms-2">Enviar</button>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Columna lateral con tips -->
+        <div class="col-md-4">
+
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    💡 Tips para usar el agente IA
+                </div>
+                <div class="card-body">
+                    <ul>
+                        <li>Sea claro con las instrucciones.</li>
+                        <li>Usa frases cortas y presisas para obtener mejores respuestas.</li>
+                        <li>Pide ejemplos cuando necesites aprender algo.</li>
+                        <li>Ten claro que aspectos quieres mejorar.</li>
+                        <li>Recuerda, ten paciencia mientras el agente te responde, dura unos segundo.</li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+
     </div>
 </div>
 
 @section Scripts {
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
-        function agregarMensaje(usuario, mensaje, color) {
-            var msgDiv = $("<div>").css("margin", "5px 0").css("color", color);
-            msgDiv.html("<strong>" + usuario + ":</strong> " + mensaje);
-            $("#chat-box").append(msgDiv);
+                function agregarMensaje(usuario, mensaje, color) {
+
+            var bubble = $("<div>").addClass("msg-bubble");
+
+            if (usuario === "Tú") {
+                bubble.addClass("msg-user");
+            } else {
+                bubble.addClass("msg-agent");
+            }
+
+            bubble.html("<strong>" + usuario + ":</strong> " + mensaje);
+
+            $("#chat-box").append(bubble);
             $("#chat-box").scrollTop($("#chat-box")[0].scrollHeight);
         }
+
 
         $("#enviar").click(function () {
             var prompt = $("#prompt").val();
@@ -38,7 +82,6 @@
             });
         });
 
-        // NOs permite enviar e; mensaje 
         $("#prompt").keypress(function (e) {
             if (e.which == 13) {
                 $("#enviar").click();

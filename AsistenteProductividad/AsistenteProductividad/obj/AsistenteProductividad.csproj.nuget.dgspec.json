@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\AsistenteProductividad.csproj": {}
+    "C:\\Users\\aleja\\Documents\\GitHub\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\AsistenteProductividad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\AsistenteProductividad.csproj": {
+    "C:\\Users\\aleja\\Documents\\GitHub\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\AsistenteProductividad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\AsistenteProductividad.csproj",
+        "projectUniqueName": "C:\\Users\\aleja\\Documents\\GitHub\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\AsistenteProductividad.csproj",
         "projectName": "AsistenteProductividad",
-        "projectPath": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\AsistenteProductividad.csproj",
-        "packagesPath": "C:\\Users\\Jeyes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeyes\\OneDrive\\Desktop\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\obj\\",
+        "projectPath": "C:\\Users\\aleja\\Documents\\GitHub\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\AsistenteProductividad.csproj",
+        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleja\\Documents\\GitHub\\ParadigmasProyecto\\AsistenteProductividad\\AsistenteProductividad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jeyes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
